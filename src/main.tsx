@@ -15,6 +15,7 @@ const queryClient = new QueryClient({
     },
   },
 });
+
 // Маршрутизация: React-router-dom
 const router = createBrowserRouter([
   {
